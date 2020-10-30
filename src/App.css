@@ -118,6 +118,8 @@ h3, p {
 	width: 100%;
 	min-width: 20em;
 	height: 3em;
+	align-items: center;
+	text-align: center;
   }
   
   .meme-form > button {
@@ -164,6 +166,7 @@ h3, p {
 
 .directions {
 	text-align: left;
+	padding-left: 20px;
 }
 
 .form-div {
